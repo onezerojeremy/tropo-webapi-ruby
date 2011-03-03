@@ -1,3 +1,7 @@
+= NOTICE
+
+This repo is deprecated. The official repo is now http://github.com/tropo/tropo-webapi-ruby. This one will be deleted ultimately.
+
 = Tropo Web API Ruby Library
 
 A Ruby library for interaction with the Tropo Web API (http://tropo.com) using JSON.

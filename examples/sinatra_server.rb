@@ -11,7 +11,7 @@ post '/index.json' do
                   :bargein => 'true', 
                   :timeout => 30,
                   :require => 'true' }) do
-                    say     :value => 'Please enter your account number'
+                    say     :value => 'Please enter your account numbers'
                     choices :value => '[5 DIGITS]'
                   end
           end
